@@ -1,4 +1,4 @@
 # vasp-julia
-Some utilities in Julia for VASP calculations
+## Some utilities in Julia for VASP calculations
 
-dosband.ipynb - Plotting density of states and band structure 
+[dosband.ipynb](https://github.com/burubaxair/vasp-julia/blob/main/dosband.ipynb) - Plotting density of states and band structure 
